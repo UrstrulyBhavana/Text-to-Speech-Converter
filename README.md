@@ -37,3 +37,6 @@ A user-friendly **Text to Speech Converter** application that allows users to en
 ---
 
 ## Demo
+
+
+https://github.com/user-attachments/assets/91d37766-457f-4227-8bb8-a0991e62ee43
