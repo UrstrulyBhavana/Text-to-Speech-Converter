@@ -1,5 +1,10 @@
 # 🎤 Text to Speech Converter
 
+## Demo
+
+https://github.com/user-attachments/assets/91d37766-457f-4227-8bb8-a0991e62ee43
+
+
 A user-friendly **Text to Speech Converter** application that allows users to enter text, select a voice, and listen to the text being spoken. This project leverages the browser's Speech Synthesis API for real-time audio output.
 
 ---
@@ -35,8 +40,23 @@ A user-friendly **Text to Speech Converter** application that allows users to en
    - Enjoy the seamless functionality on both desktop and mobile devices.
 
 ---
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
-## Demo
+GitHub | urstrulybhavana1432@gmail.com
 
+---
 
-https://github.com/user-attachments/assets/91d37766-457f-4227-8bb8-a0991e62ee43
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
